@@ -1,4 +1,4 @@
-# **Algorithms for analyzing subject text and synthesizing sentences in Ukrainian** #
+# **Algorithms for analyzing subject text and synthesizing text in Ukrainian** #
 
 The program was written in **C++**, which is an efficient and fast programming language that allowed us to process large amounts of data quickly and accurately.
 
